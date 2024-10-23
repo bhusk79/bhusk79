@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ## Hi fellow students and Professors!
-I'm a student in the 🔱ASU🔱 GIT program learning design and full stack web development.  I'm currently a Scrum Master for a large financial firm and want to learn more about web development to possibly transition into a developer role.  I'm fairly technical, but have always wanted to do more with software development.  When it's not 100+ degrees out I am usually riding my motorcycle, working in the garden or traveling with my wife.
+I'm a student in the 🔱Arizona State University🔱 GIT program learning design and full stack web development.  I'm currently a Scrum Master for a large financial firm and want to learn more about web development.  I hope to eventually transition into a developer role.  I have always wanted to do more with software development.  When it's not 100+ degrees out I am usually riding my motorcycle, working in the garden or traveling with my wife.
+
+I can be reached at brianhusk@gmail.com
+
+<a href="https://www.linkedin.com/in/brian-husk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhusk79&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
